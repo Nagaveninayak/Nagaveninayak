@@ -1,6 +1,6 @@
 🏦 I'm currently working as a web developer in a team.
 
-🤔 I use daily .js, node.js.
+🤔 I use daily .js, .ts.
 
 💬 We can communicate in multiple languages : English, Kannada, Telugu, Hindi.
 
