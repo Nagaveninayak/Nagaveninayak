@@ -11,6 +11,22 @@
 📝 If You like any of my repos or my projects don't forget to hit the star button , as it would be Awesome to Follow me on Github !
 
 🧙‍♀️ If you think My name is difficult to pronounce, just call me Nav !
+
+<p align="center">
+<code><img width="32" src="https://img.icons8.com/dusk/48/000000/html-5.png" alt="HTML5"/></code>
+<code><img width="32" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/></code>
+<code><img width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png"alt="Bootstrap"/></code>
+<code><img width="32" src="https://img.icons8.com/color/48/000000/css3.png" alt="Css"/></code>
+<code><img width="32" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/></code>
+<code><img width="32" src="https://img.icons8.com/office/16/react.png" alt="react"/></code>
+<code><img width="32" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/></code>
+<code><img width="32" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png" alt="angular"/></code>
+<code><img width="32" src="https://img.icons8.com/color/48/000000/sql.png" alt="sql"/></code>
+<code><img width="32" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql"/></code>
+<code><img width="32" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></code>
+</p>
+
+
 <!---
 Nagaveninayak/Nagaveninayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
