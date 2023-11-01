@@ -4,7 +4,7 @@
 
 💬 We can communicate in multiple languages : English, Kannada, Telugu, Hindi.
 
-🌱 I’m currently learning DSA and nextjs :).
+🌱 I’m currently learning DSA and exploring many concepts for backend :).
 
 😄 Pronouns: She/Her .
 
