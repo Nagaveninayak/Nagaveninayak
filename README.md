@@ -10,8 +10,6 @@
 
 📝 If You like any of my repos or my projects don't forget to hit the star button , as it would be Awesome to Follow me on Github !
 
-🧙‍♀️ If you think My name is difficult to pronounce, just call me Nav !
-
 <p align="center">
 <code><img width="32" src="https://img.icons8.com/dusk/48/000000/html-5.png" alt="HTML5"/></code>
 <code><img width="32" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/></code>
