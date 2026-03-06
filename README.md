@@ -15,7 +15,7 @@
 
 ---
 ### 👩‍💻 About Me
-<img align="right" width="370" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 
 
