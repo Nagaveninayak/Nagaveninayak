@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 ```
 ███╗   ██╗ █████╗  ██████╗  █████╗ ██╗   ██╗███████╗███╗   ██╗██╗
@@ -13,7 +13,7 @@
 
 </div>
 
----
+--- -->
 ### 👩‍💻 About Me
 <img align="right" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
