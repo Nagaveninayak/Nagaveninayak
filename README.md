@@ -15,16 +15,14 @@
 
 --- -->
 ### 👩‍💻 About Me
-<img align="right" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 
 
 ```typescript
 const nagaveni = {
   role: "Full Stack Web Developer 🏦",
-  code: ["JavaScript", "TypeScript"],
   dailyDrivers: [".js", ".ts"],
-  languages: ["English", "Kannada", "Telugu", "Hindi"],
   pronouns: "She/Her 💜",
   currentMood: "console.log('building...')",
   portfolio: "https://about-me-nav.vercel.app/",  
@@ -78,7 +76,7 @@ const nagaveni = {
 
 
 
-### 🌐 Languages I Speak
+<!--### 🌐 Languages I Speak
 
 ![English](https://img.shields.io/badge/English-fluent-brightgreen?style=flat-square)
 ![Kannada](https://img.shields.io/badge/Kannada-native-orange?style=flat-square)
@@ -87,6 +85,7 @@ const nagaveni = {
 ![Japanese](https://img.shields.io/badge/日本語-learning-FF69B4?style=flat-square)
 
 ---
+-->
 
 ### 📊 GitHub Stats
 
